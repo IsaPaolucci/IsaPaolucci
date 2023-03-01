@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Isabella!
+##
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-paolucci/)
-
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPaolucci&hide_progress=true)](https://github.com/IsaPaolucci/github-readme-stats)
 
 ##
